@@ -1,0 +1,17 @@
+html,
+body,
+#root {
+  min-width: 320px;
+  min-height: 100%;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
